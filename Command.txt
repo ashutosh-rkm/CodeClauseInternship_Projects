@@ -1,0 +1,5 @@
+[+] npm init -y
+[+] npm install express
+[+] npm install nodemon -d
+[+] npm install socket.io
+[+] npm run dev
